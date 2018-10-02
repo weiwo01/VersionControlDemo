@@ -19,12 +19,12 @@
          <type>JOBS</type>
          <inherit_output_filter>N</inherit_output_filter>
          <queue>CLIENT_QUEUE</queue>
-         <versioning_id>-1453441761</versioning_id>
+         <versioning_id>-1453441760</versioning_id>
       </row>
    </general_attributes>
    <scripts>
       <row>
-         <process><![CDATA[ping -n 5 localhost
+         <process><![CDATA[ping -n 15 localhost
 ! insert these lines in your script to determine if an error occurred
 !
 @set retcode=%errorlevel%
