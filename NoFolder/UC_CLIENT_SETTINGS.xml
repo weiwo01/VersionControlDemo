@@ -14,24 +14,24 @@
          <type>VARA</type>
          <sub_type>STATIC</sub_type>
          <description>UC4 system settings per client</description>
-         <versioning_id>-1673351503</versioning_id>
+         <versioning_id>-1673351502</versioning_id>
       </row>
    </general_attributes>
    <static_values>
       <row>
-         <client>300</client>
+         <client>301</client>
          <value1>GO;0000000005;2018-10-01</value1>
          <validity_range>FREI</validity_range>
          <key>CLIENT_STATUS</key>
       </row>
       <row>
-         <client>300</client>
+         <client>301</client>
          <value1>git@github.com:weiwo01/VersionControlDemo.git</value1>
          <validity_range>FREI</validity_range>
          <key>REMOTE_REPOSITORY_URL</key>
       </row>
       <row>
-         <client>300</client>
+         <client>301</client>
          <value1>C:\Users\uc4\.ssh</value1>
          <validity_range>FREI</validity_range>
          <key>REPOSITORY_SSH_DIR</key>
