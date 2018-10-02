@@ -24,7 +24,7 @@
    </general_attributes>
    <scripts>
       <row>
-         <process><![CDATA[ping -n 10 localhost
+         <process><![CDATA[ping -n 5 localhost
 ! insert these lines in your script to determine if an error occurred
 !
 @set retcode=%errorlevel%
